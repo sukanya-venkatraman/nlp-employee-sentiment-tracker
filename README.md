@@ -27,7 +27,7 @@ Derived from the Task 3/Task 4 temporal aggregation and scoring algorithms, the 
 Using the strict, company-defined criteria from **Task 5** (any employee triggering 4 or more negative communications within an independent, rolling 30-day window, regardless of their aggregate score), the following individuals have been officially flagged as **Active Retention Risks**:
 * patti.thompson@enron.com
 * eric.bass@enron.com
-* rhonda.denton@enron.
+* rhonda.denton@enron.com
 * kayne.coulter@enron.com
 * lydia.delgado@enron.com
 * don.baughman@enron.com
